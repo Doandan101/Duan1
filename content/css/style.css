@@ -504,7 +504,7 @@ figure {
 
 /* ===================Footer=================== */
 footer {
-    background: #7332f5;
+    background: #3f525e;
     padding: 40px;
 }
 footer a {
@@ -546,7 +546,7 @@ footer a {
     50% {
         -webkit-transform: rotate(180deg);
         transform: rotate(180deg);
-        border: 4px solid #673ab7;
+        border: 4px solid #3f525e;
         border-left-color: transparent;
     }
 

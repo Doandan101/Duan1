@@ -4,7 +4,7 @@ session_start();
 /**
  * Định nghĩa các url cần thiết sử dụng trong website
  */
-$ROOT_URL = "/da1"; //URL gốc của dự án:duanmau
+$ROOT_URL = "/duAn1"; 
 $CONTENT_URL = "$ROOT_URL/content"; //URL dẫn xuất cho nội dung
 $ADMIN_URL = "$ROOT_URL/admin"; //URL dẫn xuất cho  quản trị viên
 $SITE_URL = "$ROOT_URL/site"; // URL dẫn xuất cho thư mục trang web
